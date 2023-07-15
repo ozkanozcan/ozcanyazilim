@@ -1,0 +1,1 @@
+document.write('<a href="https://ozcanyazilim.com.tr" target="_blank" style="position:fixed;bottom: 70px;left: -43px;color:#fff;background-color:#000;text-decoration:none;padding: 3px 6px 7px 6px;font-size:9px;transform: rotate(90deg);border-radius: 5px 5px 0px 0px;opacity: 1;z-index: 999;">ÖZCAN TEKNOLOJİ</a>');
